@@ -10,11 +10,11 @@ Hi there! :wave: I'm Mark Jeremy Lourenco Rojas, a passionate student at **LaSal
 - :bulb: A problem solver who loves tackling challenges with creativity and logic
 
 ## :books: Skills & Technologies
-- **Programming Languages**: C++, C#, Python, JavaScript
+- **Programming Languages**: C++, C#
 - **Game Engines**: Unity, Unreal Engine
 - **Version Control**: Git, GitHub
-- **Tools**: Visual Studio, Blender, Photoshop
-- **Other**: 3D Modeling, Physics Simulation, Game Mechanics, AI Programming, Networking
+- **Tools**: Visual Studio, Maya, Photoshop
+- **Other**: 3D Modeling, Physics Simulation, Game Mechanics, AI Programming, Texturing
 
 ## :seedling: What I’m Looking For
 I’m actively seeking **internship opportunities** in the video game industry to further develop my skills and contribute to projects that excite me. Whether it’s a development role, a design position, or a technical challenge, I’m ready to bring my energy, dedication, and passion for games to the team.
