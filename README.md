@@ -23,7 +23,7 @@ I’m actively seeking **internship opportunities** in the video game industry t
 Feel free to get in touch with me for any internship opportunities, collaborations, or questions. You can reach me at:
 
 - :envelope: Email: [markjlourencor@gmail.com]
-- :briefcase: LinkedIn: [https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit]
+- :briefcase: LinkedIn: [https://www.linkedin.com/in/mark-lourenco-0482b3267/]
 
 ---
 
