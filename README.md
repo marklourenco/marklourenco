@@ -22,9 +22,8 @@ I’m actively seeking **internship opportunities** in the video game industry t
 ## :mailbox_with_mail: How to Reach Me
 Feel free to get in touch with me for any internship opportunities, collaborations, or questions. You can reach me at:
 
-- :envelope: Email: [your-email@example.com]
-- :briefcase: LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-- :globe_with_meridians: Portfolio: [https://your-portfolio.com](https://your-portfolio.com)
+- :envelope: Email: [markjlourencor@gmail.com]
+- :briefcase: LinkedIn: [[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit))
 
 ---
 
