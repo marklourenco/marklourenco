@@ -13,7 +13,7 @@ Hi there! :wave: I'm Mark Jeremy Lourenco Rojas, a passionate student at **LaSal
 - **Programming Languages**: C++, C#
 - **Game Engines**: Unity, Unreal Engine
 - **Version Control**: Git, GitHub
-- **Tools**: Visual Studio, Maya, Photoshop
+- **Tools**: Visual Studio, Maya, Photoshop, Substance Painter/Designer
 - **Other**: 3D Modeling, Physics Simulation, Game Mechanics, AI Programming, Texturing
 
 ## :seedling: What I’m Looking For
