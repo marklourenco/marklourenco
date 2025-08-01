@@ -10,8 +10,8 @@ Hi there! :wave: I'm Mark Jeremy Lourenco Rojas, a passionate student at **LaSal
 - :bulb: A problem solver who loves tackling challenges with creativity and logic
 
 ## :books: Skills & Technologies
-- **Programming Languages**: C++, C#
-- **Game Engines**: Unity, Unreal Engine
+- **Programming Languages**: C, C++, C#
+- **Game Engines**: Unity, Unreal Engine 4/5
 - **Version Control**: Git, GitHub
 - **Tools**: Visual Studio, Maya, Photoshop, Substance Painter/Designer
 - **Other**: 3D Modeling, Physics Simulation, Game Mechanics, AI Programming, Texturing
