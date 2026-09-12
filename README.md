@@ -6,7 +6,7 @@ Hello! I'm Mark Jeremy Lourenco Rojas, a passionate student at **LaSalle College
 - **Bachelor of Science in Video Game Programming** at **LaSalle College Vancouver**
 - Currently sharpening my skills in programming languages like C++, C#, and Python
 - Deep interest in both game design and development, with a focus on **game mechanics** and **gameplay programming**
-- lways eager to learn new tools, techniques, and approaches in the ever-evolving gaming industry
+- Always eager to learn new tools, techniques, and approaches in the ever-evolving gaming industry
 - A problem solver who loves tackling challenges with creativity and logic
 
 ## Skills & Technologies
