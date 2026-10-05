@@ -1,26 +1,29 @@
-# Mark Jeremy Lourenco Rojas
+# Hi, I'm Mark 👋
 
-Hello! I'm Mark Jeremy Lourenco Rojas, a passionate student at **LaSalle College Vancouver**, currently pursuing a **Bachelor of Science in Video Game Programming**. I’m focused on gaining practical experience and expanding my skills in game development. I am actively looking for internship or junior opportunities where I can contribute to the industry, learn from professionals, and grow as a developer.
+**Gameplay & Engine Programmer** | B.Sc. in Video Game Programming, **LaSalle College Vancouver**
 
-## About Me
-- **Bachelor of Science in Video Game Programming** at **LaSalle College Vancouver**
-- Currently sharpening my skills in programming languages like C++, C#, and Python
-- Deep interest in both game design and development, with a focus on **game mechanics** and **gameplay programming**
-- Always eager to learn new tools, techniques, and approaches in the ever-evolving gaming industry
-- A problem solver who loves tackling challenges with creativity and logic
+I build the systems that make games feel good to play. I've written my own C++/DirectX 11 engine, made games in Unreal and Unity, and worked with a client team on an AR mobile app at the Centre for Digital Media.
 
-## Skills & Technologies
-- **Programming Languages**: C, C++, C#, Python
-- **Game Engines**: Unity, Unreal Engine 4/5
-- **Version Control**: Git, GitHub
-- **Tools**: Visual Studio, Maya, Photoshop, Substance Painter/Designer
-- **Other**: 3D Modeling, Physics Simulation, Gameplay Mechanics, AI Programming, Texturing
+## 🎮 Featured Projects
+- **[ML_Engine](https://github.com/marklourenco/ML_Engine_Fixed)**: Custom C++/DirectX 11 engine with a rendering pipeline, animation, physics, and JSON level loading
+- **Magic Trails**: AR mobile educational app with gesture recognition and an adaptive audio manager, built with a 7-person team for a real client
+- **Rute: The Spirit Dish**: 3D stealth-puzzle adventure with enemy AI and detection systems
+- **The Fool**: 2D deck-building roguelite with a balanced card system and scalable enemies
+- **Masquerade Murder Night**: Social deduction party game with networked NPC pathfinding
 
-## What I’m Looking For
-I’m actively seeking **internship or junior opportunities** in the video game industry to further develop my skills and contribute to projects that excite me. Whether it’s a development role, a design position, or a technical challenge, I’m ready to bring my energy, dedication, and passion for games to the team.
+More on my [portfolio](https://marklourenco.github.io/portfolio).
 
-## How to Reach Me
-Feel free to get in touch with me for any internship opportunities, collaborations, or questions. You can reach me at:
+## 🛠️ Skills & Technologies
+- **Languages:** C++, C, C#, Python, Unreal Blueprints
+- **Engines:** Unreal Engine 4/5, Unity
+- **Version Control:** Git, GitHub, Perforce
+- **Tools:** Visual Studio, Maya, Photoshop, Substance Painter/Designer
+- **Focus Areas:** Gameplay programming, AI, Object-Oriented Programming, engine architecture (ECS), physics, networking
 
-- Email: [markjlourencor@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/mark-lourenco-0482b3267/]
+## 🔍 What I'm Looking For
+I'm open to **junior or graduate roles** in gameplay, engine, or tools programming. If your team is building something fun, I'd love to talk.
+
+## 📫 Get in Touch
+- **Email:** [markjlourencor@gmail.com](mailto:markjlourencor@gmail.com)
+- **LinkedIn:** [linkedin.com/in/mark-lourenco-0482b3267](https://www.linkedin.com/in/mark-lourenco-0482b3267/)
+- **Portfolio:** [marklourenco.github.io/portfolio](https://marklourenco.github.io/portfolio)
